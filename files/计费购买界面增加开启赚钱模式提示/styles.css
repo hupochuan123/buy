@@ -134,7 +134,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:246px;
+  width:240px;
   height:25px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -148,14 +148,14 @@
   position:absolute;
   left:203px;
   top:731px;
-  width:246px;
+  width:240px;
   height:25px;
 }
 #u11 {
   position:absolute;
   left:0px;
   top:0px;
-  width:246px;
+  width:240px;
   white-space:nowrap;
 }
 #u12_img {
@@ -279,7 +279,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:258px;
+  width:252px;
   height:25px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -293,14 +293,14 @@
   position:absolute;
   left:1013px;
   top:731px;
-  width:258px;
+  width:252px;
   height:25px;
 }
 #u23 {
   position:absolute;
   left:0px;
   top:0px;
-  width:258px;
+  width:252px;
   white-space:nowrap;
 }
 #u24_img {
@@ -453,8 +453,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:351px;
-  height:91px;
+  width:330px;
+  height:120px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -462,23 +462,23 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-size:18px;
+  font-size:16px;
   color:#0066FF;
 }
 #u32 {
   position:absolute;
   left:738px;
   top:1409px;
-  width:351px;
-  height:91px;
-  font-size:18px;
+  width:330px;
+  height:120px;
+  font-size:16px;
   color:#0066FF;
 }
 #u33 {
   position:absolute;
   left:0px;
   top:0px;
-  width:351px;
+  width:330px;
   white-space:nowrap;
 }
 #u34_div {
@@ -554,7 +554,7 @@
   left:0px;
   top:0px;
   width:302px;
-  height:112px;
+  height:78px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -562,15 +562,17 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-size:18px;
+  font-size:16px;
+  text-align:center;
 }
 #u38 {
   position:absolute;
-  left:629px;
-  top:731px;
+  left:642px;
+  top:865px;
   width:302px;
-  height:112px;
-  font-size:18px;
+  height:78px;
+  font-size:16px;
+  text-align:center;
 }
 #u39 {
   position:absolute;
